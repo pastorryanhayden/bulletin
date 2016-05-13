@@ -84,3 +84,13 @@ article.main .day .day-content h3 span.time {
 article.main .day p {
     margin-left: .2in;
 }
+footer {
+    border-top: 1px solid $black;
+    margin-top: .1in;
+    padding-top: .1in;
+}
+
+footer div.footer-item {
+    display: flex;
+    justify-content: space-around;
+}
